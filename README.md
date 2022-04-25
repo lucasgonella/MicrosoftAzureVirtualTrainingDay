@@ -1,0 +1,1 @@
+# MicrosoftAzureVirtualTrainingDay---Data-Fundamentals
