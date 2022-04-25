@@ -1,1 +1,1 @@
-# Microsoft Azure Virtual TrainingDay - Data-Fundamentals
+# Microsoft Azure Virtual TrainingDay - Data Fundamentals
